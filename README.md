@@ -18,6 +18,9 @@ For this project, I used Python Package Index’s `youtube_transcript_api` to co
   - NLTK
   - Scikit-learn
   - TextBlob
+  - YouTubeTranscriptAPI
+  - YouTube API
 
 ### Data
   - [YouTube.com](https://www.youtube.com/)
+  - [YouTube API](https://developers.google.com/youtube/v3)
